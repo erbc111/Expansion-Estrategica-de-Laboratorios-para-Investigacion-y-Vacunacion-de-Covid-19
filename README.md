@@ -1,0 +1,2 @@
+# Expansion-Estrategica-de-Laboratorios-para-Investigacion-y-Vacunacion-de-Covid-19
+Análisis exhaustivo de los datos de COVID-19 y otros indicadores relevantes en seis países de América Latina. Para el análisis, se emplearon las bibliotecas de Python: pandas, numpy, seaborn y matplotlib. A lo largo del proceso, se realizaron limpiezas, filtrados y cálculos estadísticos para obtener conclusiones sobre la evolución del virus.
